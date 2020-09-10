@@ -9,8 +9,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "storybook": "start-storybook -p 7007",
-    "build-storybook": "build-storybook"
+    "storybook": "start-storybook -p 7007"
   },
   "dependencies": {
     "expo": "~38.0.0",
