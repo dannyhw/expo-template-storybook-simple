@@ -1,7 +1,7 @@
 {
   "name": "expo-template-storybook-simple",
   "description": "A template for getting started with storybook. Based on expo blank template.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
